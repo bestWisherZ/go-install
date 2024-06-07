@@ -1,3 +1,3 @@
 ```
-./install_go.sh /<version>
+./install_go.sh <version>
 ```
